@@ -4,6 +4,8 @@
   link: /cheatsheets
   folder: CheatSheets
   cat:
+    - name: Ethical hacking
+      link: /cheatsheets/ethical_hacking
     - name: Html
       link: /cheatsheets/html
     - name: Js
@@ -24,6 +26,13 @@
       link: /ressources_externes/liens
 - name: Ressources-perso
   link: /ressources_perso
+  cat:
+    - name: C#
+      link: /ressources_perso/c#
+    - name: Git
+      link: /ressources_perso/git
+    - name: Office
+      link: /ressources_perso/office
 - name: Video
   link: /video
   cat:
